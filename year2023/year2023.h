@@ -23,3 +23,4 @@ vector<vector<int>> matrixAddition(vector<vector<int>> a, vector<vector<int>> b)
 void viewMatrix(vector<vector<int>> matrix);
 long parse_int(const string& number);
 string rot13(const string& str);
+vector<vector<int>> matrix_multiplication(vector<vector<int>>& a, vector<vector<int>>& b, size_t n);
