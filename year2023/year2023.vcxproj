@@ -146,6 +146,7 @@
     <ClCompile Include="parseIntReloaded.cpp" />
     <ClCompile Include="squareMatrixMultiplication.cpp" />
     <ClCompile Include="rot13.cpp" />
+    <ClCompile Include="sumOfIntervals.cpp" />
     <ClCompile Include="whichAreIn.cpp" />
   </ItemGroup>
   <ItemGroup>

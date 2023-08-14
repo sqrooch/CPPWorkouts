@@ -8,6 +8,7 @@
 #include <algorithm>
 #include <numeric>
 #include <map>
+#include <utility>
 
 using namespace std;
 
@@ -24,3 +25,4 @@ void viewMatrix(vector<vector<int>> matrix);
 long parse_int(const string& number);
 string rot13(const string& str);
 vector<vector<int>> matrix_multiplication(vector<vector<int>>& a, vector<vector<int>>& b, size_t n);
+int sum_intervals(const vector<pair<int, int>>& intervals);

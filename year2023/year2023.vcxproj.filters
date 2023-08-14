@@ -39,6 +39,9 @@
     <ClCompile Include="squareMatrixMultiplication.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="sumOfIntervals.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="year2023.h">
